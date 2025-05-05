@@ -1,6 +1,7 @@
 # NCurses Chat App Project
 
-Made in about a week. Several bugs which I hadn't bothered to fix (for instance, deleting characters from the input box sometimes bugs out).
+Made in about a week. Several bugs which I hadn't bothered to fix (for instance, deleting characters from the input box sometimes bugs out). They may be fixed if I am ever
+bothered to return to this forsaken project.
 
 If you wish to run the code on your machine, feel free to use `run.sh` files in the `./client-src` and `./server-src` directories.
 
